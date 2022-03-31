@@ -9,6 +9,6 @@ public class Main {
     }
     
     public static void another () {
-         System.out.println("THIS LINE IS FOR CONFLICT!");
+         System.out.println("One message");
     }
 }
